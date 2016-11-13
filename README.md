@@ -1,2 +1,2 @@
-# configFiles
+# config-files
 Config files for various programs
